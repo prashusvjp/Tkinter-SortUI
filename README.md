@@ -3,5 +3,5 @@ A simple application built using python's Tkinter UI module which takes in serie
 
 Steps to run the application:
 * Install tkinter using pip installer.
-  ***pip install tk***
+  <br>***pip install tk***
 * Run the ***gui.py*** file using python.
